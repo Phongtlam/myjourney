@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://phongtlam.github.io/myjourney/portfolio/reactchess/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phongtlam.github.io/myjourney/portfolio/cargo/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phongtlam.github.io/myjourney/portfolio/moodify/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phongtlam.github.io/myjourney/portfolio/yap/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phongtlam.github.io/myjourney/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phongtlam.github.io/myjourney/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phongtlam.github.io/myjourney/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://phongtlam.github.io/myjourney/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://phongtlam.github.io/myjourney/portfolio/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://phongtlam.github.io/myjourney/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

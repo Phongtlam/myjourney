@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My 1000 miles journey</title>
+    <link>https://phongtlam.github.io/myjourney/</link>
+    <description>Recent content on My 1000 miles journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Phong Lam</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="https://phongtlam.github.io/myjourney/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>React-Chess</title>
+      <link>https://phongtlam.github.io/myjourney/portfolio/reactchess/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://phongtlam.github.io/myjourney/portfolio/reactchess/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://deep-subs.herokuapp.com/&#34;&gt;&lt;strong&gt;React-Chess&lt;/strong&gt;&lt;/a&gt; was born from the love of the game. This is going to be under constant development as I learn to optimize the AI, get better at the game and just build beautiful UI. If you have the love for chess or programming in general, I&amp;rsquo;d love to chat!
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CarGo</title>
+      <link>https://phongtlam.github.io/myjourney/portfolio/cargo/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://phongtlam.github.io/myjourney/portfolio/cargo/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;CarGo&lt;/strong&gt;: A React Native carpool application used to connect users and enable them to create carpools by location and time
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Moodify</title>
+      <link>https://phongtlam.github.io/myjourney/portfolio/moodify/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://phongtlam.github.io/myjourney/portfolio/moodify/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://moooodify.herokuapp.com/&#34;&gt;&lt;strong&gt;Moodify&lt;/strong&gt;&lt;/a&gt; was a Legacy Project that I worked on. Utilized Watson API for lyrics analysis, the app aims to give music lovers better understandings of the songs they love.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yap!</title>
+      <link>https://phongtlam.github.io/myjourney/portfolio/yap/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://phongtlam.github.io/myjourney/portfolio/yap/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://yap-search.herokuapp.com/&#34;&gt;&lt;strong&gt;Yap!&lt;/strong&gt;&lt;/a&gt; is a voice-enabled, location specific search for tourists. The application was built with walking distance in mind and gives recommendations based on Google and Yelp APIs.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

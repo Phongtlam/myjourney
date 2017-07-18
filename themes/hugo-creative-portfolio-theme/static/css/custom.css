@@ -1,0 +1,15 @@
+/* your styles go here */
+img {
+  width: 75%;
+  display: block;
+  margin-right: 20px;
+}
+
+.box-masonry img {
+  width: 100%;
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 50%;
+}
