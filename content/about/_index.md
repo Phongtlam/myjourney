@@ -19,5 +19,3 @@ I hope to learn something new every day. I want to constantly update myself with
 		</div>
 	</div>
 </div>
-
-San Francisco day and night, a sight to behold.
