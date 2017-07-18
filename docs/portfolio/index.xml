@@ -52,8 +52,11 @@
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>https://phongtlam.github.io/myjourney/portfolio/yap/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://yap-search.herokuapp.com/&#34;&gt;&lt;strong&gt;Yap!&lt;/strong&gt;&lt;/a&gt; is a voice-enabled, location specific search for tourists. The application was built with walking distance in mind and gives recommendations based on Google and Yelp APIs.
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://yap-search.herokuapp.com/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Yap!&lt;/strong&gt;&lt;/a&gt; is a voice-enabled, location specific search for tourists. The application was built with walking distance in mind and gives recommendations based on Google and Yelp APIs.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
