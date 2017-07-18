@@ -29,3 +29,7 @@ weight = 1
 
 <div class="reactchess"><img src="/myjourney/portfolio/reactchess/techstack.jpg"></div>
 <div class="reactchess"><img src="/myjourney/portfolio/reactchess/thumb.jpg"></div>
+
+<br>
+
+##Overview##
