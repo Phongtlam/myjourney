@@ -1,3 +1,6 @@
+publishDir = "docs"
+
+
 baseurl = "https://phongtlam.github.io/myjourney/"
 title = "My 1000 miles journey"
 theme = "hugo-creative-portfolio-theme"
