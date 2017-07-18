@@ -31,5 +31,3 @@ weight = 1
 <div class="reactchess"><img src="/myjourney/portfolio/reactchess/thumb.jpg"></div>
 
 <br>
-
-##Overview##
