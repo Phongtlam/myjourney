@@ -10,9 +10,11 @@ weight = 2
 **CarGo**: A React Native carpool application used to connect users and enable them to create carpools by location and time
 <!--more-->
 
-[**GitHub source code**](https://github.com/Phongtlam/Car-Go)
+<div><a href="https://github.com/Phongtlam/Car-Go" target="_blank"><strong>GitHub Source Code</strong></a></div>
 
-**Project overview:**
+<br>
+
+## Project overview:
 
 - Created a responsive mobile user-friendly app for iOS using React-Native/Redux
 - Processed real-time communications to NodeJS server with Socket.io and PubNub

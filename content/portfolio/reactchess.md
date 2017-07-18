@@ -13,11 +13,10 @@ weight = 1
 
 <!--more-->
 
-
-[**GitHub source code**](https://github.com/Phongtlam/DeepSubs)
+<div><a href="https://github.com/Phongtlam/DeepSubs" target="_blank"><strong>GitHub Source Code</strong></a></div>
 <div><a href="https://deep-subs.herokuapp.com/" target="_blank"><img src="/myjourney/portfolio/reactchess/welcome.jpg"></a></div>
 
-## Project Overview
+## Project overview
 
 - Real time chess with unique room ID
 - Basic AI using minimax game theory and algorithm
