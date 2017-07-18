@@ -11,6 +11,9 @@ weight = 1
 <a href="https://deep-subs.herokuapp.com/" target="_blank"><strong>React-Chess</strong></a> was born from the love of the game. This is going to be under constant development as I learn to optimize the AI, get better at the game and just build beautiful UI. If you have the love for chess or programming in general, I'd love to chat!
 </p>
 
+<!--more-->
+
+
 [**GitHub source code**](https://github.com/Phongtlam/DeepSubs)
 <div><a href="https://deep-subs.herokuapp.com/" target="_blank"><img src="/myjourney/portfolio/reactchess/welcome.jpg"></a></div>
 
