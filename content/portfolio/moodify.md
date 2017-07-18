@@ -7,7 +7,7 @@ showonlyimage = false
 weight = 3
 +++
 
-<a href="https://moooodify.herokuapp.com/" target="_blank"><strong>Moodify</strong></a> was an application designed for musical analysis.</p>
+<a href="https://moooodify.herokuapp.com/" target="_blank"><strong>Moodify</strong></a> is an application designed for musical analysis.</p>
 
 <!--more-->
 
