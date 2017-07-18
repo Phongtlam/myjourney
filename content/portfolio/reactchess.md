@@ -45,7 +45,7 @@ Minimax in particular, is minimizing the possible loss for a worst case (maximum
 
 ![code sample](codesample2.png)
 
-Every piece has an associated value given. The algorithm calculates initially only based on piece values. If Rook or Queen is lost, the algorithm will increase to take in board position. (Currently the board is being hardcoded at 10 rounds, however no improved strategy for late game movements yet)
+Every piece has an associated value given. The algorithm calculates initially only based on piece values. It loops through the 8 X 8 board matrix to determine the highest value. If Rook or Queen is lost, the algorithm will take in board positions, in addition to piece values, thus reducing the AI's aggression. (Currently the board is being hardcoded at 10 rounds, however no improved strategy for late game movements yet)
 
 > **Improvements:** the pieces should swap new boards to accommodate for end game layouts.
 
