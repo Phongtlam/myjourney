@@ -24,8 +24,11 @@ weight = 1
 - Utilize React/Redux for components' reusability
 - Bootstrap and CSS3/Sass to create responsive UI
 - Routing via React-router V.4
-- Passport.JS and O-Auth standard
+- Passport.JS for simple, unobtrusive Node.JS authentications (local, Facebook and Google O-Auth 2.0 standard)
+- Login/Signup screens are controlled through Node.JS using ejs view engine
 - Socket.Io for real-time communications between clients and server
+- Chat client supports multi-users in the same game room
+- Chess UI logic is copied on both server and client side for better users' experience
 - PostgreSQL and Knex.JS for data migration and storage
 
 <br>
@@ -34,6 +37,16 @@ weight = 1
 <div class="reactchess"><img src="/myjourney/portfolio/reactchess/thumb.jpg"></div>
 
 <br>
+
+### Chat client
+
+Utilized the power of WebSocket(socket.io) technology, the chat client is a real-time communication platform for players within the same ID sessions.
+
+After the first player creates the room, a unique ID is made in Node.JS. Subsequent players who are invited will be joined on the same channel. The Socket will persist between all players to handle both conversations as well as rendering different board configurations.
+
+The chat will also alert different moves from each player via Yellow-Subs chat bot, as well as announcing check, check mate and game winning status.
+
+> For future iteration, the chat will also support chat bot for games vs Yellow-Subs AI.
 
 ### Minimax algorithm
 
