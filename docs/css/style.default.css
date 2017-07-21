@@ -612,7 +612,7 @@ p.social a {
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
   /*
-             &.facebook {background-color: #4460ae; border-color: #4460ae;}
+             &.soundcloud {background-color: #4460ae; border-color: #4460ae;}
              &.gplus {background-color: #c21f25; border-color: #c21f25;}
              &.twitter {background-color: #3cf; border-color: #3cf;}
              &.instagram {background-color: #cd4378; border-color: #cd4378;}
@@ -631,7 +631,7 @@ p.social a i {
 p.social.social--outline a {
   background: transparent;
 }
-p.social.social--outline a.facebook {
+p.social.social--outline a.soundcloud {
   color: #4460ae;
   border-color: #4460ae;
 }

@@ -1,7 +1,7 @@
 <p class="social">
-  {{ with .Site.Params.social.facebook }}
-  <a href="{{ . }}" data-animate-hover="pulse" class="external facebook">
-    <i class="fa fa-facebook"></i>
+  {{ with .Site.Params.social.email }}
+  <a href="mailto:{{ . }}" data-animate-hover="pulse" class="email">
+    <i class="fa fa-envelope"></i>
   </a>
   {{end}}
   {{ with .Site.Params.social.googleplus }}
@@ -19,24 +19,24 @@
     <i class="fa fa-instagram"></i>
   </a>
   {{end}}
-  {{ with .Site.Params.social.email }}
-  <a href="mailto:{{ . }}" data-animate-hover="pulse" class="email">
-    <i class="fa fa-envelope"></i>
-  </a>
-  {{end}}
   {{ with .Site.Params.social.linkedin }}
   <a href="{{ . }}" data-animate-hover="pulse">
     <i class="fa fa-linkedin"></i>
   </a>
   {{end}}
-  {{ with .Site.Params.social.stackoverflow }}
+  {{ with .Site.Params.social.angellist }}
   <a href="{{ . }}" data-animate-hover="pulse">
-    <i class="fa fa-stack-overflow"></i>
+    <i class="fa fa-angellist"></i>
   </a>
   {{end}}
   {{ with .Site.Params.social.github }}
   <a href="{{ . }}" data-animate-hover="pulse">
     <i class="fa fa-github"></i>
+  </a>
+  {{end}}
+  {{ with .Site.Params.social.soundcloud }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external soundcloud">
+    <i class="fa fa-soundcloud"></i>
   </a>
   {{end}}
 </p>
