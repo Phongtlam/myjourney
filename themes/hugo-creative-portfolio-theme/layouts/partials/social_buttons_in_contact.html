@@ -1,9 +1,4 @@
 <p class="social social--big">
-  {{ with .Site.Params.social.soundcloud }}
-  <a href="{{ . }}" class="soundcloud">
-    <i class="fa fa-soundcloud"></i>
-  </a>
-  {{end}}
   {{ with .Site.Params.social.googleplus }}
   <a href="{{ . }}" class="gplus">
     <i class="fa fa-google-plus"></i>
@@ -37,6 +32,11 @@
   {{ with .Site.Params.social.github }}
   <a href="{{ . }}">
     <i class="fa fa-github"></i>
+  </a>
+  {{end}}
+  {{ with .Site.Params.social.soundcloud }}
+  <a href="{{ . }}" class="soundcloud">
+    <i class="fa fa-soundcloud"></i>
   </a>
   {{end}}
 </p>
