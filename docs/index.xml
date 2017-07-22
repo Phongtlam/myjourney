@@ -59,5 +59,14 @@
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>firstPost</title>
+      <link>https://phongtlam.github.io/myjourney/blog/firstpost/</link>
+      <pubDate>Fri, 21 Jul 2017 18:11:22 -0700</pubDate>
+      
+      <guid>https://phongtlam.github.io/myjourney/blog/firstpost/</guid>
+      <description>I love reading.</description>
+    </item>
+    
   </channel>
 </rss>

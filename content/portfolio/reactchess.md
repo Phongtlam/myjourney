@@ -24,7 +24,7 @@ weight = 1
 - Utilize React/Redux for components' reusability
 - Bootstrap and CSS3/Sass to create responsive UI
 - Routing via React-router V.4
-- Passport.JS for simple, unobtrusive Node.JS authentications (local, soundcloud and Google O-Auth 2.0 standard)
+- Passport.JS for simple, unobtrusive Node.JS authentications (local, Facebook and Google O-Auth 2.0 standard)
 - Login/Signup screens are controlled through Node.JS using ejs view engine
 - Socket.Io for real-time communications between clients and server
 - Chat client supports multi-users in the same game room
