@@ -30,9 +30,9 @@ googleAnalytics = ""
   name = "About"
   url = "about/"
 
-  # [[params.navlinks]]
-  # name = "Blog"
-  # url = "blog/"
+  [[params.navlinks]]
+  name = "Blog"
+  url = "blog/"
 
   [[params.navlinks]]
   name = "Get in touch"
