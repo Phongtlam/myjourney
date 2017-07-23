@@ -13,14 +13,15 @@ weight = 1
 
 <!--more-->
 
-<div><a href="https://github.com/Phongtlam/DeepSubs" target="_blank"><strong>GitHub Source Code</strong></a></div>
+<div><a href="https://deep-subs.herokuapp.com/" target="_blank"><strong>Link to website</strong></a></div>
+<div><a href="https://github.com/Phongtlam/DeepSubs" target="_blank"><strong>GitHub source code</strong></a></div>
 <div><a href="https://deep-subs.herokuapp.com/" target="_blank"><img src="/myjourney/portfolio/reactchess/welcome.jpg"></a></div>
 
 ## Project overview
 
 - Real time chess with unique room ID
 - Basic AI using minimax game theory and algorithm
-- AI calculations are being done server side and client inputs are being handled through React/Redux for better user experience
+- AI calculations are being done server side and client inputs are being handled through React/Redux for better users' experience
 - Utilize React/Redux for components' reusability
 - Bootstrap and CSS3/Sass to create responsive UI
 - Routing via React-router V.4

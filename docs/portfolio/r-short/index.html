@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>CarGo</title>
+<title>r-short</title>
 <meta name="description" content="My portfolio/blog">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
@@ -108,27 +108,37 @@
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-         <h1>CarGo</h1>
-         <p><strong>CarGo</strong>: A React Native carpool application used to connect users and enable them to create carpools by location and time
+         <h1>r-short</h1>
+         <p>
+<a href="https://r-short.herokuapp.com/" target="_blank"><strong>r-short</strong></a> is a service used to shorten URLs. Built on the idea of bit.ly, this basic application is light weight, can easily be deployed on a shorter domain name to achieve better usage.
 </p>
 
-<div><a href="https://github.com/Phongtlam/Car-Go" target="_blank"><strong>GitHub source code</strong></a></div>
+<p></p>
+
+<div><a href="https://r-short.herokuapp.com/" target="_blank"><strong>Link to website</strong></a></div>
+<div><a href="https://github.com/Phongtlam/URL_shortener" target="_blank"><strong>GitHub source code</strong></a></div>
+<div class="work"><a href="https://r-short.herokuapp.com/" target="_blank"><img src="/myjourney/portfolio/r-short/screen.png"></a></div>
 
 <p><br></p>
 
-<h2 id="project-overview">Project overview:</h2>
+<h2 id="project-overview">Project overview</h2>
 
 <ul>
-<li>Created a responsive mobile user-friendly app for iOS using React-Native/Redux</li>
-<li>Processed real-time communications to NodeJS server with Socket.io and PubNub</li>
-<li>Utilized Auth0 API as authentication endpoint with OAuth 2.0 standard</li>
-<li>Utilized Knex.JS with Promise chain for PostgreSQL schema creations and query builders</li>
-<li>Prioritized modern workflows automation and version control using Grunt and Git</li>
+<li>Created using React.JS to achieve a basic and intuitive front end system</li>
+<li>Custom CSS and basic layout with Bootstrap for UI design</li>
+<li>Engineered back end server with Node.JS/Express</li>
+<li>Redis as a storage solution</li>
 </ul>
 
-<div class="work"><img src="/myjourney/portfolio/cargo/techstack.jpg"></div>
-<div class="work"><img src="/myjourney/portfolio/cargo/welcome.jpg"></div>
-<div class="work"><img src="/myjourney/portfolio/cargo/action.jpg"></div>
+<div class="reactchess"><img src="/myjourney/portfolio/r-short/techstack.png"></div>
+
+<p><br></p>
+
+<h3 id="redis">Redis</h3>
+
+<p>This is an amazing open-source database solution. Utilized in-memory key-value storage, the software has a number of features that are available in other database systems, such as replication, tunable levels of durability, cluster, high availability. The most notable aspect of Redis is that even though it is stored on disk, it is served and modified into the server memory. Redis is <strong>FAST</strong>, yet non-volatile at the same time.</p>
+
+<p>The reason that I picked Redis for this project is mainly due to users&rsquo; experience. A URL shortener service needs to be fast, since a user would already need to go through an extra link to get where he/she wants. A fast database is needed and nothing does the job better than Redis.</p>
          
       </div>
     </div>

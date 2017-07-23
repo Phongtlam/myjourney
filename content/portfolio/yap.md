@@ -4,7 +4,7 @@ title = "Yap!"
 draft = false
 image = "portfolio/yap/thumb.jpg"
 showonlyimage = false
-weight = 4
+weight = 5
 +++
 
 <p>
@@ -13,7 +13,8 @@ weight = 4
 
 <!--more-->
 
-<div><a href="https://github.com/Phongtlam/Yap-" target="_blank"><strong>GitHub Source Code</strong></a></div>
+<div><a href="https://yap-search.herokuapp.com/" target="_blank"><strong>Link to website</strong></a></div>
+<div><a href="https://github.com/Phongtlam/Yap-" target="_blank"><strong>GitHub source code</strong></a></div>
 
 <br>
 

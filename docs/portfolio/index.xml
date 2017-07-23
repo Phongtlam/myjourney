@@ -36,6 +36,19 @@
     </item>
     
     <item>
+      <title>r-short</title>
+      <link>https://phongtlam.github.io/myjourney/portfolio/r-short/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://phongtlam.github.io/myjourney/portfolio/r-short/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://r-short.herokuapp.com/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;r-short&lt;/strong&gt;&lt;/a&gt; is a service used to shorten URLs. Built on the idea of bit.ly, this basic application is light weight, can easily be deployed on a shorter domain name to achieve better usage.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Moodify</title>
       <link>https://phongtlam.github.io/myjourney/portfolio/moodify/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>

@@ -10,7 +10,7 @@ weight = 2
 **CarGo**: A React Native carpool application used to connect users and enable them to create carpools by location and time
 <!--more-->
 
-<div><a href="https://github.com/Phongtlam/Car-Go" target="_blank"><strong>GitHub Source Code</strong></a></div>
+<div><a href="https://github.com/Phongtlam/Car-Go" target="_blank"><strong>GitHub source code</strong></a></div>
 
 <br>
 
