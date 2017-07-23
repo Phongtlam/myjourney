@@ -24,7 +24,7 @@ weight = 3
 - Created using React.JS to achieve a basic and intuitive front end system
 - Custom CSS and basic layout with Bootstrap for UI design
 - Engineered back end server with Node.JS/Express
-- Redis as a storage solution
+- Utilized Redis as a blazing fast, in-memory data storage solution
 
 <div class="reactchess"><img src="/myjourney/portfolio/r-short/techstack.png"></div>
 
