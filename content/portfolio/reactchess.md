@@ -15,7 +15,12 @@ weight = 1
 
 <div><a href="https://deep-subs.herokuapp.com/" target="_blank"><strong>Link to website</strong></a></div>
 <div><a href="https://github.com/Phongtlam/DeepSubs" target="_blank"><strong>GitHub source code</strong></a></div>
+
+<br>
+
 <div><a href="https://deep-subs.herokuapp.com/" target="_blank"><img src="/myjourney/portfolio/reactchess/welcome.jpg"></a></div>
+
+<br>
 
 ## Project overview
 
