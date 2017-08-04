@@ -60,6 +60,19 @@
     </item>
     
     <item>
+      <title>Where Next?</title>
+      <link>https://phongtlam.github.io/myjourney/portfolio/wherenext/</link>
+      <pubDate>Wed, 05 Jul 2017 19:41:01 +0530</pubDate>
+      
+      <guid>https://phongtlam.github.io/myjourney/portfolio/wherenext/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://wherenxt.herokuapp.com/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Where Next?&lt;/strong&gt;&lt;/a&gt; is an application made for travelers. The platform is built using Google Places API to keeping track of locations as well as basic ratings and information for the places you wish to visit.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Yap!</title>
       <link>https://phongtlam.github.io/myjourney/portfolio/yap/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
