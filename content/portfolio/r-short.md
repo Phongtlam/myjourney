@@ -30,7 +30,7 @@ weight = 3
 
 <br>
 
-### Redis
+## Redis
 This is an amazing open-source database solution. Utilized in-memory key-value storage, the software has a number of features that are available in other database systems, such as replication, tunable levels of durability, cluster, high availability. The most notable aspect of Redis is that even though it is stored on disk, it is served and modified into the server memory. Redis is **FAST**, yet non-volatile at the same time.
 
 The reason that I picked Redis for this project is mainly due to users' experience. A URL shortener service needs to be fast, since a user would already need to go through an extra link to get where he/she wants. A fast database is needed and nothing does the job better than Redis.

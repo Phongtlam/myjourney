@@ -44,7 +44,7 @@ weight = 1
 
 <br>
 
-### Chat client
+## Chat client
 
 Utilized the power of WebSocket(socket.io) technology, the chat client is a real-time communication platform for players within the same ID sessions.
 
@@ -54,7 +54,7 @@ The chat will also alert different moves from each player via Yellow-Subs chat b
 
 > For future iteration, the chat will also support chat bot for games vs Yellow-Subs AI.
 
-### Minimax algorithm
+## Minimax algorithm
 
 > [Game theory](https://en.wikipedia.org/wiki/Game_theory) is "the study of mathematical models of conflict and cooperation between intelligent rational decision-makers."
 
@@ -79,5 +79,5 @@ To further optimize the searches and decrease work load on the AI, a pruning met
 
 > This method can typically reduce the branching factor searches down to 25 from the average of 35 per ply.
 
-### Things to do:
+## Things to do:
 This is right now the state of the AI. The plan is to update this section with Alpha/Beta pruning to improve searches and thus increases efficiency of the AI. The next step is to create a database for openers and endgame board configurations.
