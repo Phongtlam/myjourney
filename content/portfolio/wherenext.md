@@ -26,7 +26,7 @@ weight = 5
 - Travelers often times do not know where to go in a new city. How can we help someone to quickly find places around San Francisco and beyond? Enter <a href="https://wherenxt.herokuapp.com/" target="_blank"><strong>Where Next?</strong></a>. This platform enables someone to browse for places without the need to create a Yelp/Google account. This will feature places with user ratings, average cost(where applicable) and a few other features.
 - The motivation behind this is to create an easy and seamless user experience without the need to create complicated profiles and login services.
 
-## Project overview:
+### Project overview:
 
 - Quick and responsive UI components built with React and Bootstrap
 - Node.JS with Express for a lightweight back end server
