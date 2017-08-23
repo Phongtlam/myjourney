@@ -4,7 +4,7 @@ title = "Yap!"
 draft = false
 image = "portfolio/yap/thumb.jpg"
 showonlyimage = false
-weight = 5
+weight = 7
 +++
 
 <p>
