@@ -85,5 +85,18 @@
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>note4u?</title>
+      <link>https://phongtlam.github.io/myjourney/portfolio/note4u/</link>
+      <pubDate>Wed, 23 Aug 2017 19:41:01 +0530</pubDate>
+      
+      <guid>https://phongtlam.github.io/myjourney/portfolio/note4u/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://note4u.herokuapp.com/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Note4u&lt;/strong&gt;&lt;/a&gt; is a note taking application built with React. Using CSS3 and modern styling for the UI, this lightweight application can be deployed easily within any clients&#39; frameworks.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
