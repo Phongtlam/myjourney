@@ -1,6 +1,6 @@
 +++
 date = "2017-08-23T19:41:01+05:30"
-title = "note4u?"
+title = "note4u"
 draft = false
 image = "portfolio/note4u/logo.jpg"
 showonlyimage = false
