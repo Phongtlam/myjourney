@@ -8,17 +8,18 @@ weight = 1
 +++
 
 <p>
-<a href="https://deep-subs.herokuapp.com/" target="_blank"><strong>React-Chess</strong></a> was born from the love of the game. This is going to be under constant development as I learn to optimize the AI, get better at the game and just build beautiful UI. If you have the love for chess or programming in general, I'd love to chat!
+<a href="https://reactchess.herokuapp.com/" target="_blank"><strong>React-Chess</strong></a> was born from the love of the game. This is going to be under constant development as I learn to optimize the AI, get better at the game and just build beautiful UI. If you have the love for chess or programming in general, I'd love to chat!
 </p>
 
 <!--more-->
 
-<div><a href="https://deep-subs.herokuapp.com/" target="_blank"><strong>Link to website</strong></a></div>
-<div><a href="https://github.com/Phongtlam/DeepSubs" target="_blank"><strong>GitHub source code</strong></a></div>
+<div><a href="https://reactchess.herokuapp.com/" target="_blank"><strong>Link to website: Version 2 (updated)</strong></a></div>
+<div><a href="https://deep-subs.herokuapp.com/" target="_blank"><strong>Link to website: Version 1 (deprecated)</strong></a></div>
+<div><a href="https://github.com/Phongtlam/reactchess" target="_blank"><strong>GitHub source code</strong></a></div>
 
 <br>
 
-<div><a href="https://deep-subs.herokuapp.com/" target="_blank"><img src="/myjourney/portfolio/reactchess/welcome.jpg"></a></div>
+<div><a href="https://reactchess.herokuapp.com/" target="_blank"><img src="/myjourney/portfolio/reactchess/version2_screenshot.jpg"></a></div>
 
 <br>
 
@@ -28,7 +29,8 @@ weight = 1
 - Basic AI using minimax game theory and algorithm
 - AI calculations are being done server side and client inputs are being handled through React/Redux for better users' experience
 - Utilize React/Redux for components' reusability
-- Bootstrap and CSS3/Sass to create responsive UI
+- Bootstrap and CSS3/Sass to create responsive UI(old version)
+- Ant Design UI framework
 - Routing via React-router V.4
 - Passport.JS for simple, unobtrusive Node.JS authentications (local, Facebook and Google O-Auth 2.0 standard)
 - Login/Signup screens are controlled through Node.JS using ejs view engine
@@ -40,7 +42,6 @@ weight = 1
 <br>
 
 <div class="reactchess"><img src="/myjourney/portfolio/reactchess/techstack.jpg"></div>
-<div class="reactchess"><img src="/myjourney/portfolio/reactchess/thumb.jpg"></div>
 
 <br>
 
@@ -78,6 +79,3 @@ The algorithm will explore all possibilities of a given 8 X 8 board matrix recur
 To further optimize the searches and decrease work load on the AI, a pruning method is employed to keep track of the worst/best move of each player so far to avoid searching into branches that will given bad results.
 
 > This method can typically reduce the branching factor searches down to 25 from the average of 35 per ply.
-
-## Things to do:
-This is right now the state of the AI. The plan is to update this section with Alpha/Beta pruning to improve searches and thus increases efficiency of the AI. The next step is to create a database for openers and endgame board configurations.
